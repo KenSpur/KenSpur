@@ -1,4 +1,4 @@
-# 📂 Projects
+# 🏗️Projects
 
 ## 🐙 Proxmox K8s Cluster
 - [⚙️ ansible-k8s-cluster-configuration](https://github.com/KenSpur/ansible-k8s-cluster-configuration)

@@ -1,4 +1,4 @@
-# 🏗️Projects
+# 🏗️ Projects
 
 ## 🐙 Proxmox K8s Cluster
 - [⚙️ ansible-k8s-cluster-configuration](https://github.com/KenSpur/ansible-k8s-cluster-configuration)
@@ -16,6 +16,6 @@
 - [🖼️ wordpress-image](https://github.com/KenSpur/wordpress-image)
 - [🖼️ wordpress-mysql-image](https://github.com/KenSpur/wordpress-mysql-image)
 
-## 🧩 Resume Website
-- [🧩 justbeawesomeat-dotnet-website-v2](https://github.com/KenSpur/justbeawesomeat-dotnet-website-v2)
-- [🧩 justbeawesomeat-dotnet-website](https://github.com/KenSpur/justbeawesomeat-dotnet-website)
+## 📑 Resume Website
+- [🌐 justbeawesomeat-dotnet-website-v2](https://github.com/KenSpur/justbeawesomeat-dotnet-website-v2)
+- [🌐 justbeawesomeat-dotnet-website](https://github.com/KenSpur/justbeawesomeat-dotnet-website)

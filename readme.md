@@ -1,6 +1,7 @@
 # 🏗️ Projects
 
 ## 🐙 Proxmox k8s Cluster
+- [⚙️ ansible-k8s-argo-cd-installation](https://github.com/KenSpur/ansible-k8s-argo-cd-installation)
 - [⚙️ ansible-k8s-cluster-configuration](https://github.com/KenSpur/ansible-k8s-cluster-configuration)
 - [🗺️ proxmox-k8s-cluster-infrastructure](https://github.com/KenSpur/proxmox-k8s-cluster-infrastructure)
 - [🖼️ k8s-control-plane-node-image](https://github.com/KenSpur/k8s-control-plane-node-image)

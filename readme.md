@@ -1,6 +1,8 @@
 # 🏗️ Projects
 
 ## 🐙 Proxmox k8s Cluster
+
+- [🐙 argo-k8s-cluster-addons-config](https://github.com/KenSpur/argo-k8s-cluster-addons-config)
 - [⚙️ ansible-k8s-argo-cd-installation](https://github.com/KenSpur/ansible-k8s-argo-cd-installation)
 - [⚙️ ansible-k8s-cluster-configuration](https://github.com/KenSpur/ansible-k8s-cluster-configuration)
 - [🗺️ proxmox-k8s-cluster-infrastructure](https://github.com/KenSpur/proxmox-k8s-cluster-infrastructure)

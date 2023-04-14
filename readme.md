@@ -2,7 +2,7 @@
 
 ## 🐙 Proxmox k8s Cluster
 
-- [🐙 argo-k8s-cluster-addons-config](https://github.com/KenSpur/argo-k8s-cluster-addons-config)
+- [🐙 argo-k8s-cluster-addons-config](https://github.com/KenSpur/argo-k8s-cluster-addons-config)⏳
 - [⚙️ ansible-k8s-argo-cd-installation](https://github.com/KenSpur/ansible-k8s-argo-cd-installation)
 - [⚙️ ansible-k8s-cluster-configuration](https://github.com/KenSpur/ansible-k8s-cluster-configuration)
 - [🗺️ proxmox-k8s-cluster-infrastructure](https://github.com/KenSpur/proxmox-k8s-cluster-infrastructure)
@@ -15,7 +15,7 @@
 
 ## 🗺️ Wordpress Infrastructure
 - [⚙️ ansible-certbot-install](https://github.com/KenSpur/ansible-certbot-install)
-- [🗺️ wordpress-infrastructure-v2](https://github.com/KenSpur/wordpress-infrastructure-v2)
+- [🗺️ wordpress-infrastructure-v2](https://github.com/KenSpur/wordpress-infrastructure-v2) ⏳
 - [🗺️ wordpress-infrastructure](https://github.com/KenSpur/wordpress-infrastructure)
 - [🖼️ wordpress-image](https://github.com/KenSpur/wordpress-image)
 - [🖼️ wordpress-mysql-image](https://github.com/KenSpur/wordpress-mysql-image)

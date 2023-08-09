@@ -20,7 +20,6 @@
 
 ## 🗺️ Wordpress Infrastructure
 - [⚙️ ansible-certbot-install](https://github.com/KenSpur/ansible-certbot-install)
-- [🗺️ wordpress-infrastructure-v2](https://github.com/KenSpur/wordpress-infrastructure-v2) ⏳
 - [🗺️ wordpress-infrastructure](https://github.com/KenSpur/wordpress-infrastructure)
 - [🖼️ wordpress-image](https://github.com/KenSpur/wordpress-image)
 - [🖼️ wordpress-mysql-image](https://github.com/KenSpur/wordpress-mysql-image)

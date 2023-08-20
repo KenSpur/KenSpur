@@ -16,11 +16,7 @@
 
 ## 🐙 Proxmox k3s Cluster
 
- -
-
 ## 🐙 Raspberry Pi k3s Cluster
-
- -
 
 ## 📧 Email Campaign
 - [🧩 mailchimp-one-click-subscribe-api](https://github.com/KenSpur/mailchimp-one-click-subscribe-api)

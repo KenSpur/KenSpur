@@ -5,7 +5,7 @@
 - [🛰️terraform-provider-azure-iot-central](https://github.com/KenSpur/terraform-provider-azure-iot-central)⏳
 - [🖥️ azure-iot-central-client-go](https://github.com/KenSpur/azure-iot-central-client-go) ⏳
 
-## 🐙 Proxmox k8s Cluster
+## 🦑 Proxmox k8s Cluster (ubuntu)
 
 - [🐙 argo-k8s-cluster-addons-config](https://github.com/KenSpur/argo-k8s-cluster-addons-config)⏳
 - [⚙️ ansible-k8s-argo-cd-installation](https://github.com/KenSpur/ansible-k8s-argo-cd-installation)
@@ -13,6 +13,8 @@
 - [🗺️ proxmox-k8s-cluster-infrastructure](https://github.com/KenSpur/proxmox-k8s-cluster-infrastructure)
 - [🖼️ k8s-control-plane-node-image](https://github.com/KenSpur/k8s-control-plane-node-image)
 - [🖼️ k8s-worker-node-image](https://github.com/KenSpur/k8s-worker-node-image)
+
+## 🐙 Proxmox k3s Cluster (debian)
 
 ## 📧 Email Campaign
 - [🧩 mailchimp-one-click-subscribe-api](https://github.com/KenSpur/mailchimp-one-click-subscribe-api)

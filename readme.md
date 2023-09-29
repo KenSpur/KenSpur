@@ -19,7 +19,7 @@
 ## 🐙 Raspberry Pi k3s Cluster
 
 ## 🌍 Azure DDNS (Dynamic DNS)
-- [🌐 what-is-my-ip-server](https://github.com/KenSpur/what-is-my-ip-server) ⏳
+- [🌐 what-is-my-ip-server](https://github.com/KenSpur/what-is-my-ip-server)
 - [🖥️ azure-ddns-client](https://github.com/KenSpur/azure-ddns-client) ⏳
 
 ## 📧 Email Campaign

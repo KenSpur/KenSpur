@@ -20,7 +20,7 @@
 
 ## 🌍 Azure DDNS (Dynamic DNS)
 - [🌐 what-is-my-ip-server](https://github.com/KenSpur/what-is-my-ip-server)
-- [🖥️ azure-ddns-client](https://github.com/KenSpur/azure-ddns-client) ⏳
+- [🖥️ azure-ddns-client](https://github.com/KenSpur/azure-ddns-client)
 
 ## 📧 Email Campaign
 - [🧩 mailchimp-one-click-subscribe-api](https://github.com/KenSpur/mailchimp-one-click-subscribe-api)

@@ -1,5 +1,9 @@
 # 🏗️ Projects
 
+## 🌍 Azure DDNS (Dynamic DNS)
+- [🌐 what-is-my-ip-server](https://github.com/KenSpur/what-is-my-ip-server)
+- [🖥️ azure-ddns-client](https://github.com/KenSpur/azure-ddns-client)
+
 ## 🛰️ Terraform Provider
 
 - [🛰️terraform-provider-azure-iot-central](https://github.com/KenSpur/terraform-provider-azure-iot-central)⏳
@@ -17,10 +21,6 @@
 ## 🐙 Proxmox k3s Cluster
 
 ## 🐙 Raspberry Pi k3s Cluster
-
-## 🌍 Azure DDNS (Dynamic DNS)
-- [🌐 what-is-my-ip-server](https://github.com/KenSpur/what-is-my-ip-server)
-- [🖥️ azure-ddns-client](https://github.com/KenSpur/azure-ddns-client)
 
 ## 📧 Email Campaign
 - [🧩 mailchimp-one-click-subscribe-api](https://github.com/KenSpur/mailchimp-one-click-subscribe-api)
